@@ -1,7 +1,6 @@
-# {{ name }}
+# Scrapper
 
-> {{ description }}
-
+> my scrapper
 ## Build Setup
 
 ``` bash
