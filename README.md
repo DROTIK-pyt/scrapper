@@ -1,6 +1,6 @@
 # Scrapper
 
-> my scrapper
+> my scrapper, see /server folder - index.js
 ## Build Setup
 
 ``` bash
